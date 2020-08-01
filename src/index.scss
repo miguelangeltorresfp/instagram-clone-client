@@ -14,3 +14,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.ui.form {
+  .btn-submit {
+    width: 100%;
+    background-color: $action;
+    color: $font-light;
+  }
+}
